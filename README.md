@@ -1,6 +1,6 @@
 <div align="center">
 ​<a href="https://rayyanamer.github.io">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:1C1C1E,100:0D0D0D&height=165&section=header&text=Rayyan%20Amer&fontSize=46&fontColor=FFFFFF&fontAlignY=42&font=JetBrains%20Mono&desc=Hobbyist%20Developer%20%E2%80%A2%20Engineering%20Student%20at%20SAISC&descAlignY=68&descSize=14&descColor=A1A1AA" width="100%" alt="Rayyan Amer Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:1C1C1E,100:0D0D0D&height=165&section=header&text=Rayyan%20Amer&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Hobbyist%20Developer%20%E2%80%A2%20Engineering%20Student%20at%20SAISC&descAlignY=68&descSize=14&descColor=A1A1AA" width="100%" alt="Rayyan Amer Header" />
 </a>
 ​<p align="center">
 <a href="https://rayyanamer.github.io" target="_blank">
@@ -17,35 +17,35 @@
 ​<table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23E07A38" width="18" height="18" align="absmiddle" />  <b><code>Education & Focus</code></b>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23E07A38" width="18" height="18" align="absmiddle" />  <b>Education & Focus</b>
 
 <sub>Engineering Student at <b>SAISC</b> (FSc Pre-Eng), targeting <b>Robotics & Mechatronics</b>.</sub>
 </td>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B5E853" width="18" height="18" align="absmiddle" />  <b><code>Game Development</code></b>
+<img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B5E853" width="18" height="18" align="absmiddle" />  <b>Game Development</b>
 
 <sub>Indie developer focused on procedural world generation, shaders, and custom engines.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/cpu.svg?color=%23B5E853" width="18" height="18" align="absmiddle" />  <b><code>Systems & Hardware</code></b>
+<img src="https://api.iconify.design/lucide/cpu.svg?color=%23B5E853" width="18" height="18" align="absmiddle" />  <b>Systems & Hardware</b>
 
 <sub>First-principles maker building low-level systems in Rust/C++ and ESP32 hardware.</sub>
 </td>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/compass.svg?color=%23E07A38" width="18" height="18" align="absmiddle" />  <b><code>Digital Space</code></b>
+<img src="https://api.iconify.design/lucide/compass.svg?color=%23E07A38" width="18" height="18" align="absmiddle" />  <b>Digital Space</b>
 
 <sub>Explore live builds, experiments, and logs at <a href="https://rayyanamer.github.io"><b>rayyanamer.github.io</b></a>.</sub>
 </td>
 </tr>
 </table>
 ​<h3>
-<img src="https://api.iconify.design/lucide/layers.svg?color=%23E07A38" width="20" height="20" align="absmiddle" />  <code>Tech Stack & Arsenal</code>
+<img src="https://api.iconify.design/lucide/layers.svg?color=%23E07A38" width="20" height="20" align="absmiddle" />  Tech Stack & Arsenal
 </h3>
 ​<table>
 <tr>
-<td align="center" width="160"><b><code>Languages</code></b></td>
+<td align="center" width="160"><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -58,14 +58,14 @@
 </td>
 </tr>
 <tr>
-<td align="center"><b><code>Frameworks</code></b></td>
+<td align="center"><b>Frameworks</b></td>
 <td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </td>
 </tr>
 <tr>
-<td align="center"><b><code>Engines & Tools</code></b></td>
+<td align="center"><b>Engines & Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -76,7 +76,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"><b><code>Environments</code></b></td>
+<td align="center"><b>Environments</b></td>
 <td>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
@@ -84,7 +84,7 @@
 </tr>
 </table>
 ​<h3>
-<img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23E07A38" width="20" height="20" align="absmiddle" />  <code>Activity & Metrics</code>
+<img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23E07A38" width="20" height="20" align="absmiddle" />  Activity & Metrics
 </h3>
 ​<p align="center">
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=rayyanamer&show_icons=true&bg_color=0D0D0D&title_color=E07A38&icon_color=B5E853&text_color=E2E8F0&border_color=2C2C2E&border_radius=14" alt="Rayyan's GitHub Stats" />
