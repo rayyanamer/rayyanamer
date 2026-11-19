@@ -1,6 +1,6 @@
 <div align="center">
 ​<a href="https://rayyanamer.github.io">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Rayyan%20Amer&fontSize=54&fontColor=B5E853&fontAlignY=42&desc=Hobbyist%20Developer%20%E2%80%A2%20Engineering%20Student%20at%20SAISC&descAlignY=72&descSize=16&descColor=E07A38" width="100%" alt="Rayyan Amer" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=header&text=Rayyan%20Amer&fontSize=58&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Hobbyist%20Developer%20%E2%80%A2%20Engineering%20Student%20at%20SAISC&descAlignY=74&descSize=16&descColor=E07A38" width="100%" alt="Rayyan Amer" />
 </a>
 ​<p align="center">
 <a href="https://rayyanamer.github.io" target="_blank">
@@ -15,12 +15,18 @@
 <img src="https://komarev.com/ghpvc/?username=rayyanamer&label=Views&color=1C1C1E&labelColor=1C1C1E&style=for-the-badge" alt="Profile Views" />
 </p>
 ​</div>
-​<img src="https://api.iconify.design/lucide/user.svg?color=%23B5E853" width="22" height="22" align="absmiddle" />  About Me
-​I am a Hobbyist Developer and FSc Pre-Engineering Student at SAISC, preparing to pursue Robotics & Mechatronics. I approach software and hardware from first principles—building procedural game engines, custom GLSL shaders, and embedded micro-drones from the ground up.
-​<img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B5E853" width="16" height="16" align="absmiddle" />  Indie Game Development: Designing chunk-based procedural worlds, PSX-style horror atmospheres, and custom engine tools.
-​<img src="https://api.iconify.design/lucide/cpu.svg?color=%23E07A38" width="16" height="16" align="absmiddle" />  Systems & Embedded: Writing performance-critical logic in Rust/C++ and programming ESP32 + MPU6050 flight controllers.
-​<img src="https://api.iconify.design/lucide/globe.svg?color=%23B5E853" width="16" height="16" align="absmiddle" />  Explore More: Visit my interactive portfolio at rayyanamer.github.io.
-​<img src="https://api.iconify.design/lucide/layers.svg?color=%23B5E853" width="22" height="22" align="absmiddle" />  Tech Stack & Tools
+​<img src="https://api.iconify.design/lucide/user.svg?color=%23B5E853" width="20" height="20" />  About Me
+​<p>I am a <strong>Hobbyist Developer</strong> and <strong>FSc Pre-Engineering Student</strong> at <strong>SAISC</strong>, preparing to pursue <strong>Robotics & Mechatronics</strong>. I approach software and hardware from first principles—building procedural game engines, custom GLSL shaders, and embedded micro-drones from the ground up.</p>
+​<p>
+<img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23B5E853" width="16" height="16" />  <strong>Indie Game Development:</strong> Designing chunk-based procedural worlds, PSX-style horror atmospheres, and custom engine tools.
+</p>
+​<p>
+<img src="https://api.iconify.design/lucide/cpu.svg?color=%23E07A38" width="16" height="16" />  <strong>Systems & Embedded:</strong> Writing performance-critical logic in Rust/C++ and programming ESP32 + MPU6050 flight controllers.
+</p>
+​<p>
+<img src="https://api.iconify.design/lucide/globe.svg?color=%23B5E853" width="16" height="16" />  <strong>Explore More:</strong> Visit my interactive portfolio at <a href="https://rayyanamer.github.io"><strong>rayyanamer.github.io</strong></a>.
+</p>
+​<img src="https://api.iconify.design/lucide/layers.svg?color=%23B5E853" width="20" height="20" />  Tech Stack & Tools
 ​Languages
 ​<p>
 <img src="https://img.shields.io/badge/GDScript-1C1C1E?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="GDScript" />
@@ -48,11 +54,17 @@
 <img src="https://img.shields.io/badge/VS_Code-1C1C1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 <img src="https://img.shields.io/badge/OpenCode-1C1C1E?style=for-the-badge&logo=gnubash&logoColor=B5E853" alt="OpenCode" />
 </p>
-​<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23B5E853" width="22" height="22" align="absmiddle" />  Featured Builds
-​EmberLand — A 3D procedural chunk-based survival sandbox built in Godot 4 with deterministic seed terrain and custom GLSL shaders.
-​Yamiori — Atmospheric PSX-inspired 3D horror experience published on itch.io.
-​ESP32 Micro-Quadcopter — Custom-built DIY flight controller pairing an ESP32 with an MPU6050 IMU and low-latency web telemetry.
-​<img src="https://api.iconify.design/lucide/activity.svg?color=%23B5E853" width="22" height="22" align="absmiddle" />  GitHub Activity & Streak
+​<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23B5E853" width="20" height="20" />  Featured Builds
+​<p>
+<img src="https://api.iconify.design/lucide/box.svg?color=%23B5E853" width="16" height="16" />  <strong>EmberLand:</strong> A 3D procedural chunk-based survival sandbox built in Godot 4 with deterministic seed terrain and custom GLSL shaders.
+</p>
+​<p>
+<img src="https://api.iconify.design/lucide/ghost.svg?color=%23E07A38" width="16" height="16" />  <strong>Yamiori:</strong> Atmospheric PSX-inspired 3D horror experience published on itch.io.
+</p>
+​<p>
+<img src="https://api.iconify.design/lucide/radio.svg?color=%23B5E853" width="16" height="16" />  <strong>ESP32 Micro-Quadcopter:</strong> Custom-built DIY flight controller pairing an ESP32 with an MPU6050 IMU and low-latency web telemetry.
+</p>
+​<img src="https://api.iconify.design/lucide/activity.svg?color=%23B5E853" width="20" height="20" />  GitHub Activity & Streak
 ​<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanamer&bg_color=00000000&color=A1A1AA&line=B5E853&point=E07A38&area=true&area_color=B5E853&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
