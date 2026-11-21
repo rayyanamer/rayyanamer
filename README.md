@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://rayyanamer.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Rayyan%20Amer&fontSize=56&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Software%20Developer%20%2F%2F%20Pre-Engineering%20Student&descAlignY=72&descSize=15&descColor=B5E853" width="100%" alt="Rayyan Amer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Rayyan%20Amer&fontSize=56&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Software%20Developer%20%7C%20Pre%20Engineering%20Student&descAlignY=72&descSize=15&descColor=B5E853" width="100%" alt="Rayyan Amer" />
 </a>
 
 <p>
-  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-1C1C1E?style=for-the-badge&logo=googlechrome&logoColor=B5E853" alt="Portfolio" /></a>
-  <a href="https://instagram.com/_rayyanamer"><img src="https://img.shields.io/badge/Instagram-1C1C1E?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=protonmail&logoColor=E07A38" alt="Email" /></a>
+  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=googlechrome&logoColor=B5E853&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
+  <a href="https://instagram.com/_rayyanamer"><img src="https://img.shields.io/badge/Instagram-2A2D34?style=for%20the%20badge&logo=instagram&logoColor=E4405F&labelColor=141619&color=2A2D34" alt="Instagram" /></a>
+  <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=protonmail&logoColor=E07A38&labelColor=141619&color=2A2D34" alt="Email" /></a>
 </p>
 
 <sub>Based in Pakistan · Building across software, systems, and hardware.</sub>
@@ -18,22 +18,38 @@
 
 ### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Overview
 
-I'm an **FSc Pre-Engineering student at SAISC** and hobbyist developer focused on understanding how computing systems work from the metal up. My current work spans **systems programming, web architecture, game engines, and embedded hardware**, building toward a long-term focus in **Robotics & Mechatronics**.
+I am an **FSc Pre Engineering student at SAISC** and hobbyist developer focused on understanding how computing systems work from the metal up. My current work spans **systems programming, web architecture, game engines, and embedded hardware**, building toward a long term focus in **Robotics and Mechatronics**.
 
-- **Systems & Low-Level:** Exploring memory, performance, and hardware-software interfaces.
-- **Full-Stack & Interactive:** Building responsive web apps and real-time game mechanics.
-- **Continuous Iteration:** Experimenting with new languages, Linux environments, and tooling.
+* **Systems and Low Level:** Exploring memory, performance, and hardware software interfaces.
+* **Full Stack and Interactive:** Building responsive web apps and real time game mechanics.
+* **Continuous Iteration:** Experimenting with new languages, Linux environments, and tooling.
 
 ---
 
-### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Tech Stack
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Metallic Stack Grid
 
-| Domain | Technologies |
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,py,js,cs,godot,unity,blender&theme=dark&perline=4" alt="Core Languages and Game Engines" />
+</a>
+
+<br /><br />
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,firebase,linux,debian,git,github,vscode&theme=dark&perline=5" alt="Web Stack and Development Environment" />
+</a>
+
+</div>
+
+<br />
+
+| Domain | Detailed Badges |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-1C1C1E?style=flat-square&logo=cplusplus&logoColor=00599C) ![Rust](https://img.shields.io/badge/Rust-1C1C1E?style=flat-square&logo=rust&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-1C1C1E?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1E?style=flat-square&logo=javascript&logoColor=F7DF1E) ![C#](https://img.shields.io/badge/C%23-1C1C1E?style=flat-square&logo=csharp&logoColor=239120) ![GDScript](https://img.shields.io/badge/GDScript-1C1C1E?style=flat-square&logo=godotengine&logoColor=478CBF) |
-| **Web & Cloud** | ![HTML5](https://img.shields.io/badge/HTML5-1C1C1E?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1C1C1E?style=flat-square&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1C1C1E?style=flat-square&logo=tailwindcss&logoColor=38B2AC) ![Node.js](https://img.shields.io/badge/Node.js-1C1C1E?style=flat-square&logo=nodedotjs&logoColor=339933) ![Firebase](https://img.shields.io/badge/Firebase-1C1C1E?style=flat-square&logo=firebase&logoColor=FFCA28) |
-| **Engines & Creative** | ![Godot](https://img.shields.io/badge/Godot-1C1C1E?style=flat-square&logo=godotengine&logoColor=478CBF) ![Unity](https://img.shields.io/badge/Unity-1C1C1E?style=flat-square&logo=unity&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/Blender-1C1C1E?style=flat-square&logo=blender&logoColor=F5792A) ![FL Studio](https://img.shields.io/badge/FL_Studio-1C1C1E?style=flat-square&logo=flstudio&logoColor=FFFFFF) |
-| **Environment** | ![Linux](https://img.shields.io/badge/Linux-1C1C1E?style=flat-square&logo=linux&logoColor=FCC624) ![Debian](https://img.shields.io/badge/Debian-1C1C1E?style=flat-square&logo=debian&logoColor=A81D33) ![Git](https://img.shields.io/badge/Git-1C1C1E?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1C1C1E?style=flat-square&logo=github&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-1C1C1E?style=flat-square&logo=visualstudiocode&logoColor=007ACC) |
+| **Languages** | ![Cpp](https://img.shields.io/badge/C++%20%7C%20Systems-262930?style=flat&logo=cplusplus&logoColor=61AFEF&labelColor=131518) ![Rust](https://img.shields.io/badge/Rust%20%7C%20Safe-262930?style=flat&logo=rust&logoColor=F97316&labelColor=131518) ![Python](https://img.shields.io/badge/Python%20%7C%20Scripting-262930?style=flat&logo=python&logoColor=38BDF8&labelColor=131518) ![JavaScript](https://img.shields.io/badge/JavaScript%20%7C%20Web-262930?style=flat&logo=javascript&logoColor=FACC15&labelColor=131518) ![CSharp](https://img.shields.io/badge/C%23%20%7C%20Engine-262930?style=flat&logo=csharp&logoColor=4ADE80&labelColor=131518) |
+| **Web and Cloud** | ![HTML5](https://img.shields.io/badge/HTML5-262930?style=flat&logo=html5&logoColor=FB7185&labelColor=131518) ![CSS3](https://img.shields.io/badge/CSS3-262930?style=flat&logo=css3&logoColor=60A5FA&labelColor=131518) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-262930?style=flat&logo=tailwindcss&logoColor=2DD4BF&labelColor=131518) ![Node](https://img.shields.io/badge/Node.js-262930?style=flat&logo=nodedotjs&logoColor=86EFAC&labelColor=131518) ![Firebase](https://img.shields.io/badge/Firebase-262930?style=flat&logo=firebase&logoColor=FBBF24&labelColor=131518) |
+| **3D and Audio** | ![Godot](https://img.shields.io/badge/Godot%204-262930?style=flat&logo=godotengine&logoColor=60A5FA&labelColor=131518) ![Unity](https://img.shields.io/badge/Unity-262930?style=flat&logo=unity&logoColor=E5E7EB&labelColor=131518) ![Blender](https://img.shields.io/badge/Blender%203D-262930?style=flat&logo=blender&logoColor=FB923C&labelColor=131518) ![FLStudio](https://img.shields.io/badge/FL%20Studio-262930?style=flat&logo=flstudio&logoColor=FDBA74&labelColor=131518) |
+| **Environment** | ![Linux](https://img.shields.io/badge/Linux-262930?style=flat&logo=linux&logoColor=FDE047&labelColor=131518) ![Debian](https://img.shields.io/badge/Debian-262930?style=flat&logo=debian&logoColor=F87171&labelColor=131518) ![Git](https://img.shields.io/badge/Git-262930?style=flat&logo=git&logoColor=FB7185&labelColor=131518) ![GitHub](https://img.shields.io/badge/GitHub-262930?style=flat&logo=github&logoColor=F3F4F6&labelColor=131518) ![VSCode](https://img.shields.io/badge/VS%20Code-262930?style=flat&logo=vscode&logoColor=38BDF8&labelColor=131518) |
 
 ---
 
