@@ -5,9 +5,9 @@
 </a>
 
 <p>
-  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=googlechrome&logoColor=B5E853&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
+  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0I1RTg1MyI+PHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBBMTAgMTAgMCAwIDAgMTIgMnptMy44IDYuMi0yLjIgNS40LTUuNCAyLjIgMi4yLTUuNCA1LjQtMi4yem0tMy44IDIuN2ExLjEgMS4xIDAgMSAwIDEuMSAxLjEgMS4xIDEuMSAwIDAgMC0xLjEtMS4xeiIvPjwvc3ZnPg==&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
   <a href="https://instagram.com/_rayyanamer"><img src="https://img.shields.io/badge/Instagram-2A2D34?style=for%20the%20badge&logo=instagram&logoColor=E4405F&labelColor=141619&color=2A2D34" alt="Instagram" /></a>
-  <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=protonmail&logoColor=E07A38&labelColor=141619&color=2A2D34" alt="Email" /></a>
+  <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=gmail&logoColor=EA4335&labelColor=141619&color=2A2D34" alt="Email" /></a>
 </p>
 
 <sub>Pakistan · Software, systems, and hardware.</sub>
