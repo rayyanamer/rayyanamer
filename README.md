@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://rayyanamer.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=145&section=header&text=Rayyan%20Amer&fontSize=54&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Developer%20%7C%20Pre%20Engineering%20Student&descAlignY=72&descSize=15&descColor=B5E853" width="100%" alt="Rayyan Amer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=145&section=header&text=Rayyan%20Amer&fontSize=54&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Developer%20%C2%B7%20Pre%20Engineering%20Student&descAlignY=72&descSize=15&descColor=B5E853" width="100%" alt="Rayyan Amer" />
 </a>
 
 <p>
-  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0I1RTg1MyI+PHBhdGggZD0iTTEyIDJhMTAgMTAgMCAxIDAgMTAgMTBBMTAgMTAgMCAwIDAgMTIgMnptMy44IDYuMi0yLjIgNS40LTUuNCAyLjIgMi4yLTUuNCA1LjQtMi4yem0tMy44IDIuN2ExLjEgMS4xIDAgMSAwIDEuMSAxLjEgMS4xIDEuMSAwIDAgMC0xLjEtMS4xeiIvPjwvc3ZnPg==&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
+  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOERCRjgiIHN0cm9rZS13aWR0aD0iMiIvPjxwb2x5Z29uIHBvaW50cz0iMTYuMiw3LjggMTMuNSwxMy41IDcuOCwxNi4yIDEwLjUsMTAuNSIgZmlsbD0iI0I1RTg1MyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEuOCIgZmlsbD0iI0ZCOTIzQyIvPjwvc3ZnPg==&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
   <a href="https://instagram.com/_rayyanamer"><img src="https://img.shields.io/badge/Instagram-2A2D34?style=for%20the%20badge&logo=instagram&logoColor=E4405F&labelColor=141619&color=2A2D34" alt="Instagram" /></a>
   <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=gmail&logoColor=EA4335&labelColor=141619&color=2A2D34" alt="Email" /></a>
 </p>
