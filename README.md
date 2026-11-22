@@ -10,7 +10,6 @@
   <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=gmail&logoColor=EA4335&labelColor=141619&color=2A2D34" alt="Email" /></a>
 </p>
 
-<sub>Pakistan · Software, systems, and hardware.</sub>
 
 </div>
 
@@ -20,9 +19,9 @@
 
 FSc Pre Engineering student at SAISC and hobbyist developer working across programming, web apps, games, and embedded hardware toward Robotics and Mechatronics.
 
-* Interested in how software and hardware work underneath.
-* Building tools, games, and experiments across multiple languages.
-* Daily driving Linux and tinkering with real hardware.
+* Interested in Softwares & Web Development
+* Experimenting with Stuff
+* Indie Game Developer
 
 ---
 
