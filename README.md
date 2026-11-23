@@ -43,6 +43,8 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/C++-20242b?style=flat-square&logo=cplusplus&logoColor=659AD2" />
 
 <br/>
+<br>
+<br>
 
 **GAME DEVELOPMENT AND DESIGN**
 
