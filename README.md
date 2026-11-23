@@ -44,7 +44,6 @@ Interested in software, game development, engineering, and the little details be
 
 <br/>
 <br>
-<br>
 
 **GAME DEVELOPMENT AND DESIGN**
 
@@ -53,6 +52,7 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/Blender-20242b?style=flat-square&logo=blender&logoColor=E87D0D" />
 
 <br/>
+<br>
 
 **HARDWARE AND EMBEDDED SYSTEMS**
 
@@ -61,6 +61,7 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/MPU6050-20242b?style=flat-square&logo=opensourcehardware&logoColor=white" />
 
 <br/>
+<br>
 
 **DEVELOPMENT ENVIRONMENT**
 
@@ -69,6 +70,7 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/GitHub-20242b?style=flat-square&logo=github&logoColor=white" />
 
 <br/>
+<br>
 
 **WEB AND DEPLOYMENT**
 
@@ -77,6 +79,7 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/GoatCounter-20242b?style=flat-square&logo=googleanalytics&logoColor=E8A838" />
 
 <br/>
+<br>
 
 **OPERATING SYSTEMS**
 
@@ -85,6 +88,7 @@ Interested in software, game development, engineering, and the little details be
 <img src="https://img.shields.io/badge/Windows-20242b?style=flat-square&logo=windows&logoColor=0078D4" />
 
 <br/>
+<br>
 
 **CREATIVE SOFTWARE**
 
@@ -93,7 +97,7 @@ Interested in software, game development, engineering, and the little details be
 
 </div>
 
----
+•-•-•
 
 ## GitHub Overview
 
