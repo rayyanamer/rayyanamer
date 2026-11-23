@@ -1,66 +1,128 @@
+
 <div align="center">
+
+# RayyanAmer
+
+**Hobbyist Developer · Pre-Engineering Student · Tech Enthusiast**
+
+Exploring technology, building ideas, and learning along the way.
+
+<br/>
 
 <a href="https://rayyanamer.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=145&section=header&text=Rayyan%20Amer&fontSize=54&fontColor=FFFFFF&font=Space%20Grotesk&fontAlignY=42&desc=Developer%20%C2%B7%20Pre%20Engineering%20Student&descAlignY=72&descSize=15&descColor=B5E853" width="100%" alt="Rayyan Amer" />
+<img src="https://img.shields.io/badge/WEBSITE-212121?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/rayyanamer">
+<img src="https://img.shields.io/badge/GITHUB-212121?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=rayyanamer&style=for-the-badge&color=212121&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## About
+
+I'm Rayyan, a student and hobbyist developer from Pakistan.
+
+Interested in software, game development, engineering, and the little details behind how technology works. Most of my time goes into experimenting, learning, and turning ideas into projects.
+
+---
+
+## Technologies and Tools
+
+<div align="center">
+
+**DEVELOPMENT**
+
+<img src="https://img.shields.io/badge/HTML5-20242b?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-20242b?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-20242b?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GDScript-20242b?style=flat-square&logo=godotengine&logoColor=478CBF" />
+<img src="https://img.shields.io/badge/C%23-20242b?style=flat-square&logo=csharp&logoColor=9B72CB" />
+<img src="https://img.shields.io/badge/C++-20242b?style=flat-square&logo=cplusplus&logoColor=659AD2" />
+
+<br/>
+
+**GAME DEVELOPMENT AND DESIGN**
+
+<img src="https://img.shields.io/badge/Godot-20242b?style=flat-square&logo=godotengine&logoColor=478CBF" />
+<img src="https://img.shields.io/badge/Terrain3D-20242b?style=flat-square&logo=godotengine&logoColor=478CBF" />
+<img src="https://img.shields.io/badge/Blender-20242b?style=flat-square&logo=blender&logoColor=E87D0D" />
+
+<br/>
+
+**HARDWARE AND EMBEDDED SYSTEMS**
+
+<img src="https://img.shields.io/badge/ESP32-20242b?style=flat-square&logo=espressif&logoColor=E7352C" />
+<img src="https://img.shields.io/badge/Arduino-20242b?style=flat-square&logo=arduino&logoColor=00979D" />
+<img src="https://img.shields.io/badge/MPU6050-20242b?style=flat-square&logo=opensourcehardware&logoColor=white" />
+
+<br/>
+
+**DEVELOPMENT ENVIRONMENT**
+
+<img src="https://img.shields.io/badge/VS%20Code-20242b?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Git-20242b?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-20242b?style=flat-square&logo=github&logoColor=white" />
+
+<br/>
+
+**WEB AND DEPLOYMENT**
+
+<img src="https://img.shields.io/badge/GitHub%20Pages-20242b?style=flat-square&logo=githubpages&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-20242b?style=flat-square&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/GoatCounter-20242b?style=flat-square&logo=googleanalytics&logoColor=E8A838" />
+
+<br/>
+
+**OPERATING SYSTEMS**
+
+<img src="https://img.shields.io/badge/Debian-20242b?style=flat-square&logo=debian&logoColor=A81D33" />
+<img src="https://img.shields.io/badge/KDE%20Plasma-20242b?style=flat-square&logo=kde&logoColor=1D99F3" />
+<img src="https://img.shields.io/badge/Windows-20242b?style=flat-square&logo=windows&logoColor=0078D4" />
+
+<br/>
+
+**CREATIVE SOFTWARE**
+
+<img src="https://img.shields.io/badge/FL%20Studio-20242b?style=flat-square&logo=flstudio&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/KineMaster-20242b?style=flat-square&logo=kinemaster&logoColor=white" />
+
+</div>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rayyanamer&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&rank_icon=github" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=rayyanamer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakLabel=C9D1D9" height="165" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanamer&bg_color=0d1117&color=8b949e&line=8b949e&point=c9d1d9&area=true&area_color=30363d&hide_border=true&custom_title=Contribution%20History" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/rayyanamer?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-212121?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<p>
-  <a href="https://rayyanamer.github.io"><img src="https://img.shields.io/badge/Portfolio-2A2D34?style=for%20the%20badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOERCRjgiIHN0cm9rZS13aWR0aD0iMiIvPjxwb2x5Z29uIHBvaW50cz0iMTYuMiw3LjggMTMuNSwxMy41IDcuOCwxNi4yIDEwLjUsMTAuNSIgZmlsbD0iI0I1RTg1MyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEuOCIgZmlsbD0iI0ZCOTIzQyIvPjwvc3ZnPg==&labelColor=141619&color=2A2D34" alt="Portfolio" /></a>
-  <a href="https://instagram.com/_rayyanamer"><img src="https://img.shields.io/badge/Instagram-2A2D34?style=for%20the%20badge&logo=instagram&logoColor=E4405F&labelColor=141619&color=2A2D34" alt="Instagram" /></a>
-  <a href="mailto:muhammad.rayyan.amer@gmail.com"><img src="https://img.shields.io/badge/Email-2A2D34?style=for%20the%20badge&logo=gmail&logoColor=EA4335&labelColor=141619&color=2A2D34" alt="Email" /></a>
-</p>
+<br/><br/>
 
+<sub>Learning, experimenting, and building. One project at a time.</sub>
 
-</div>
-
-<br />
-
-### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Overview
-
-FSc Pre Engineering student at SAISC and hobbyist developer working across programming, web apps, games, and embedded hardware toward Robotics and Mechatronics.
-
-* Interested in Softwares & Web Development
-* Experimenting with Stuff
-* Indie Game Developer
-
----
-
-### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; TechStack
-
-| Area | Stack |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-262930?style=flat&logo=cplusplus&logoColor=61AFEF&labelColor=131518) ![Rust](https://img.shields.io/badge/Rust-262930?style=flat&logo=rust&logoColor=F97316&labelColor=131518) ![Python](https://img.shields.io/badge/Python-262930?style=flat&logo=python&logoColor=38BDF8&labelColor=131518) ![JavaScript](https://img.shields.io/badge/JavaScript-262930?style=flat&logo=javascript&logoColor=FACC15&labelColor=131518) ![C#](https://img.shields.io/badge/C%23-262930?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzRBREU4MCI+PHBhdGggZD0iTTEyIDIgMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDQuNWExLjUgMS41IDAgMSAxIDAgM2ExLjUgMS41IDAgMCAxIDAtM3ptLTQgNC41aDJ2MmgyVjExaDJ2MmgydjJoLTJ2MmgydjJoLTJ2LTJoLTJ2MmgtMnYtMmgydjItMnYtMmgtMnYtMmgydjJoMlYxMXptNyAwaDEuNXY1SDE1di01eiIvPjwvc3ZnPg==&labelColor=131518) ![GDScript](https://img.shields.io/badge/GDScript-262930?style=flat&logo=godotengine&logoColor=60A5FA&labelColor=131518) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-262930?style=flat&logo=html5&logoColor=FB7185&labelColor=131518) ![CSS3](https://img.shields.io/badge/CSS3-262930?style=flat&logo=css3&logoColor=60A5FA&labelColor=131518) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-262930?style=flat&logo=tailwindcss&logoColor=2DD4BF&labelColor=131518) ![Node.js](https://img.shields.io/badge/Node.js-262930?style=flat&logo=nodedotjs&logoColor=86EFAC&labelColor=131518) ![Firebase](https://img.shields.io/badge/Firebase-262930?style=flat&logo=firebase&logoColor=FBBF24&labelColor=131518) |
-| **3D and Audio** | ![Godot](https://img.shields.io/badge/Godot-262930?style=flat&logo=godotengine&logoColor=60A5FA&labelColor=131518) ![Unity](https://img.shields.io/badge/Unity-262930?style=flat&logo=unity&logoColor=E5E7EB&labelColor=131518) ![Blender](https://img.shields.io/badge/Blender-262930?style=flat&logo=blender&logoColor=FB923C&labelColor=131518) ![FL Studio](https://img.shields.io/badge/FL%20Studio-262930?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZCOTIzQyI+PHBhdGggZD0iTTEyIDJDOSAxIDcgMyA3IDZjMCAyIDEgMyAyIDQtMiAxLTMgMy0zIDYgMCAzIDIgNSA1IDUgMiAwIDMtMSAzLTJzMSAyIDMgMmMzIDAgNS0yIDUtNSAwLTMtMS01LTMtNiAxLTEgMi0yIDItNCBDMTcgMyAxNSAxIDEyIDJ6bTAtMWE0IDQgMCAwIDEgMyAxLjVMMTIgNkw5IDIuNUE0IDQgMCAwIDEgMTIgMXoiLz48L3N2Zz4=&labelColor=131518) |
-| **Tools** | ![Linux](https://img.shields.io/badge/Linux-262930?style=flat&logo=linux&logoColor=FDE047&labelColor=131518) ![Debian](https://img.shields.io/badge/Debian-262930?style=flat&logo=debian&logoColor=F87171&labelColor=131518) ![Git](https://img.shields.io/badge/Git-262930?style=flat&logo=git&logoColor=FB7185&labelColor=131518) ![GitHub](https://img.shields.io/badge/GitHub-262930?style=flat&logo=github&logoColor=F3F4F6&labelColor=131518) ![VS Code](https://img.shields.io/badge/VS%20Code-262930?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QkRGOCI+PHBhdGggZD0iTTE3LjUgMkw4LjggMTAuMkw0LjIgNi43IDIgOC4xIDYuOCAxMiAyIDE1LjlsMi4yIDEuNEw4LjggMTMuOGw4LjcgOC4yIDQuNS0yLjJWNi4yTDE3LjUgMnptMCA0LjR2MTEuMkwxMS41IDEybDYtNS42eiIvPjwvc3ZnPg==&labelColor=131518) |
-
----
-
-### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rayyanamer&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=A1A1AA&icon_color=B5E853&title_color=B5E853&rank_icon=github" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanamer&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=00000000&text_color=A1A1AA&icon_color=B5E853&title_color=B5E853" height="160" alt="Top Languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rayyanamer&background=00000000&hide_border=true&stroke=2C2C2E&ring=B5E853&fire=E07A38&currStreakNum=B5E853&sideNums=E07A38&currStreakLabel=B5E853&sideLabels=A1A1AA&dates=777777" width="58%" alt="GitHub Streak" />
-
-</div>
-
----
-
-### <img src="https://api.iconify.design/lucide/activity.svg?color=%23B5E853" width="18" align="absmiddle" /> &nbsp; Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyanamer&bg_color=00000000&color=A1A1AA&line=B5E853&point=E07A38&area=true&area_color=B5E853&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-  <sub><a href="https://rayyanamer.github.io">rayyanamer.github.io</a> &nbsp;·&nbsp; © 2026 Rayyan Amer</sub>
 </div>
