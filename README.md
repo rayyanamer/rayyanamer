@@ -23,9 +23,8 @@ Exploring technology, building ideas, and learning along the way.
 
 ## About
 
-I'm Rayyan, a student and hobbyist developer from Pakistan.
+I'm Rayyan, a student and Hobbyist developer from Pakistan. 
 
-Interested in software, game development, engineering, and the little details behind how technology works. Most of my time goes into experimenting, learning, and turning ideas into projects.
 
 ---
 
@@ -97,9 +96,9 @@ Interested in software, game development, engineering, and the little details be
 
 </div>
 
-•-•-•
+---
 
-## GitHub Overview
+## GitHub Summary
 
 <div align="center">
 
@@ -111,7 +110,7 @@ Interested in software, game development, engineering, and the little details be
 
 ---
 
-## Contribution Activity
+## Repo Contributions Trend
 
 <div align="center">
 
@@ -128,7 +127,5 @@ Interested in software, game development, engineering, and the little details be
 </a>
 
 <br/><br/>
-
-<sub>Learning, experimenting, and building. One project at a time.</sub>
 
 </div>
