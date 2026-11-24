@@ -64,7 +64,7 @@ I'm Rayyan, a student and Hobbyist developer from Pakistan.
 
 **DEVELOPMENT ENVIRONMENT**
 
-<img src="https://img.shields.io/badge/VS%20Code-20242b?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwN2FjYyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxM2ExLjc1IDEuNzUgMCAwIDAtMi4wMDQuMzQ4TDcuMDg2IDguODY3IDMuMTEyIDUuODUzYTEuMTY3IDEuMTY3IDAgMCAwLTEuNDkuMDY2bC0xLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwLS4wMDEgMS43MjRMMi44MDIgMTIgLjM0NiAxNC4yNDdhMS4xNjcgMS4xNjcgMCAwIDAgLjAwMSAxLjcyNGwxLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwIDEuNDkuMDY2bDMuOTc0LTMuMDE0IDkuMTIgOC4zMDZhMS43NSAxLjc1IDAgMCAwIDIuMDA0LjM0OGw0Ljk0LTIuMzc0YTEuNzUgMS43NSAwIDAgMCAuOTktMS41NzdWNC4xNjRhMS43NSAxLjc1IDAgMCAwLS45OS0xLjU3N3pNMTggMTYuNTk1TDExLjkzNyAxMiAxOCA3LjQwNXY5LjE5eiIvPjwvc3ZnPg==" alt="VS Code" />
 <img src="https://img.shields.io/badge/Git-20242b?style=flat-square&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-20242b?style=flat-square&logo=github&logoColor=white" />
 
